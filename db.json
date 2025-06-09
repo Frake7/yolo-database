@@ -2,14 +2,14 @@
   "tasks": [
     {
     "id": "1",
-    "title": "tests",
+    "title": "First Task",
     "description": "lorem",
     "dueDate": 123,
     "status": 1
     },
     {
     "id": "2",
-    "title": "test2",
+    "title": "Second Task",
     "description": "lorem2",
     "dueDate": 1232,
     "status": 2
@@ -18,12 +18,12 @@
   "categories": [
     {
     "id": "1",
-    "title": "testssss",
+    "title": "First category",
     "description": "test"
     },
     {
     "id": "2",
-    "title": "second cat",
+    "title": "Second category",
     "description": "test"
     }
   ]
