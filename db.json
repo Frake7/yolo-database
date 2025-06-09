@@ -6,12 +6,24 @@
     "description": "lorem",
     "dueDate": 123,
     "status": 1
+    },
+    {
+    "id": "2",
+    "title": "test2",
+    "description": "lorem2",
+    "dueDate": 1232,
+    "status": 2
     }
   ],
   "categories": [
     {
     "id": "1",
     "title": "test",
+    "description": "test"
+    },
+    {
+    "id": "2",
+    "title": "second cat",
     "description": "test"
     }
   ]
