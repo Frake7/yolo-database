@@ -1,14 +1,18 @@
 {
-  "tasks": {
+  "tasks": [
+    {
     "id": "1",
     "title": "test",
     "description": "lorem",
     "dueDate": 123,
     "status": 1
-  },
-  "categories": {
+    }
+  ],
+  "categories": [
+    {
     "id": "1",
     "title": "test",
     "description": "test"
-  }
+    }
+  ]
 }
