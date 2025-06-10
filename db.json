@@ -1,32 +1,136 @@
 {
   "tasks": [
     {
-    "id": "1",
-    "title": "First Task",
-    "description": "lorem",
-    "dueDate": 123,
-    "status": 1,
-    "category": 1
+      "id": "1",
+      "title": "Fix login bug",
+      "description": "Fix the issue causing login failure",
+      "dueDate": 1720000000,
+      "status": 1,
+      "category": 1
     },
     {
-    "id": "2",
-    "title": "Second Task",
-    "description": "lorem2",
-    "dueDate": 1232,
-    "status": 2,
-    "category": 2
+      "id": "2",
+      "title": "Design landing page",
+      "description": "Create mockups for the new landing page",
+      "dueDate": 1720100000,
+      "status": 2,
+      "category": 2
+    },
+    {
+      "id": "3",
+      "title": "Write unit tests",
+      "description": "Cover user service with tests",
+      "dueDate": 1720200000,
+      "status": 1,
+      "category": 3
+    },
+    {
+      "id": "4",
+      "title": "Refactor dashboard code",
+      "description": "Improve readability and structure",
+      "dueDate": 1720300000,
+      "status": 3,
+      "category": 4
+    },
+    {
+      "id": "5",
+      "title": "Create onboarding docs",
+      "description": "Write documentation for new developers",
+      "dueDate": 1720400000,
+      "status": 1,
+      "category": 5
+    },
+    {
+      "id": "6",
+      "title": "Set up CI/CD pipeline",
+      "description": "Implement automated build and deploy",
+      "dueDate": 1720500000,
+      "status": 2,
+      "category": 6
+    },
+    {
+      "id": "7",
+      "title": "User feedback analysis",
+      "description": "Review feedback from recent release",
+      "dueDate": 1720600000,
+      "status": 1,
+      "category": 7
+    },
+    {
+      "id": "8",
+      "title": "Optimize images",
+      "description": "Compress images for faster load times",
+      "dueDate": 1720700000,
+      "status": 3,
+      "category": 8
+    },
+    {
+      "id": "9",
+      "title": "Update dependencies",
+      "description": "Upgrade packages to latest versions",
+      "dueDate": 1720800000,
+      "status": 2,
+      "category": 9
+    },
+    {
+      "id": "10",
+      "title": "Plan Q3 roadmap",
+      "description": "Prepare product roadmap for Q3",
+      "dueDate": 1720900000,
+      "status": 1,
+      "category": 10
     }
   ],
   "categories": [
     {
-    "id": "1",
-    "title": "First category",
-    "description": "test"
+      "id": "1",
+      "title": "Bug Fixes",
+      "description": "Tasks related to fixing bugs"
     },
     {
-    "id": "2",
-    "title": "Second category",
-    "description": "test"
+      "id": "2",
+      "title": "Design",
+      "description": "UI/UX and design-related tasks"
+    },
+    {
+      "id": "3",
+      "title": "Testing",
+      "description": "Writing and running tests"
+    },
+    {
+      "id": "4",
+      "title": "Refactoring",
+      "description": "Improving code quality"
+    },
+    {
+      "id": "5",
+      "title": "Documentation",
+      "description": "Writing helpful documentation"
+    },
+    {
+      "id": "6",
+      "title": "DevOps",
+      "description": "Infrastructure and pipelines"
+    },
+    {
+      "id": "7",
+      "title": "Product Feedback",
+      "description": "Reviewing and analyzing user feedback"
+    },
+    {
+      "id": "8",
+      "title": "Performance",
+      "description": "Tasks to optimize speed"
+    },
+    {
+      "id": "9",
+      "title": "Maintenance",
+      "description": "Keeping dependencies up to date"
+    },
+    {
+      "id": "10",
+      "title": "Planning",
+      "description": "Strategic product planning"
     }
   ]
 }
