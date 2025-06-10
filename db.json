@@ -5,14 +5,16 @@
     "title": "First Task",
     "description": "lorem",
     "dueDate": 123,
-    "status": 1
+    "status": 1,
+    "category": 1
     },
     {
     "id": "2",
     "title": "Second Task",
     "description": "lorem2",
     "dueDate": 1232,
-    "status": 2
+    "status": 2,
+    "category": 2
     }
   ],
   "categories": [
