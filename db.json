@@ -14,7 +14,7 @@
       "description": "Create mockups for the new landing page",
       "dueDate": 1720100000,
       "status": 2,
-      "category": 1
+      "category": 2
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "description": "Cover user service with tests",
       "dueDate": 1720200000,
       "status": 1,
-      "category": 1
+      "category": 3
     },
     {
       "id": "4",
@@ -30,7 +30,7 @@
       "description": "Improve readability and structure",
       "dueDate": 1720300000,
       "status": 3,
-      "category": 1
+      "category": 4
     },
     {
       "id": "5",
@@ -62,7 +62,7 @@
       "description": "Compress images for faster load times",
       "dueDate": 1720700000,
       "status": 3,
-      "category": 8
+      "category": 1
     },
     {
       "id": "9",
@@ -70,7 +70,7 @@
       "description": "Upgrade packages to latest versions",
       "dueDate": 1720800000,
       "status": 2,
-      "category": 9
+      "category": 1
     },
     {
       "id": "10",
@@ -78,7 +78,7 @@
       "description": "Prepare product roadmap for Q3",
       "dueDate": 1720900000,
       "status": 1,
-      "category": 10
+      "category": 1
     }
   ],
   "categories": [
